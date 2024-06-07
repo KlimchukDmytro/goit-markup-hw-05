@@ -539,10 +539,7 @@ img {
     margin-bottom: 16px;
 }
 
-.subscribe-form {
-    display: flex;
-    gap: 24px;
-}
+.footer-form{}
 
 .subscribe-input{
     width: 264px;
@@ -561,7 +558,6 @@ img {
 .subscribe-btn{
     min-width: 165px;
     height: 40px;
-    display: flex;
     justify-content: center;
     align-items: center;
     font-family: "Roboto", sans-serif;
@@ -581,6 +577,7 @@ img {
     fill: #fff;
 }
 
+/* ---------------------backdrop--------------------------- */
 
 .backdrop{
     position: fixed;
