@@ -742,7 +742,9 @@ img {
 
 .model-check{}
 
-.model-checkbox{}
+.model-checkbox{
+    margin-bottom: 24px;
+}
 
 .model-btn{
     display: block;
@@ -775,7 +777,6 @@ img {
     letter-spacing: 0.04em;
     color: #8e8f99;
     
-    align-items: center;
 }
 
 .model-check-text .span{
