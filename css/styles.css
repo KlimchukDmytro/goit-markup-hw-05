@@ -799,7 +799,7 @@ img {
     color:#4d5ae5;
 }
 
-.model-check:checked + .model-check-text span{
+.model-check:checked + .model-check-text .span{
     background-color: #404BBF;
     border: none;
     fill: #F4F4FD;
