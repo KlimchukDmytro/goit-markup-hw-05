@@ -676,7 +676,6 @@ img {
 }
 
 .model-field-wrap {
-    position: relative;
     font-size: 12px;
     line-height: 1.17;
     letter-spacing: 0.04em;
@@ -761,7 +760,6 @@ img {
     letter-spacing: 0.04em;
     color: #FFFFFF;
     cursor: pointer;
-    background-color: #4D5AE5;
     border: none;
     background-color: 250ms cubic-bezier(0.4, 0, 0.2, 1);
     margin: 0 auto;
