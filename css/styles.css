@@ -742,6 +742,10 @@ img {
 
 .model-check{}
 
+.model-checkbox{
+    margin-bottom: 24px;
+}
+
 .model-btn{
     display: block;
     min-width: 169px;
